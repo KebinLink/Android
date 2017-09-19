@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WXX</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string-array name="spingarr">
+     <item>上</item> 
+    <item>下</item> 
+     <item>左</item> 
+    <item>右</item> 
+    <item>东</item>  
+    <item>南</item>  
+    <item>西</item>  
+    <item>北</item>  
+   <item>东北</item>  
+    <item>东南</item>  
+    <item>西南</item>  
+    <item>西北</item> 
+  
+    </string-array>
+    
+
+<string-array name="spingarr1">
+     <item>2</item>  
+    <item>4</item>  
+    <item>6</item>  
+    <item>8</item>  
+    <item>10</item> 
+    <item>15</item> 
+    </string-array>
+    
+<string-array name="spingarr2">
+     <item>5</item>  
+    <item>8</item>  
+    <item>10</item>  
+    <item>15</item>  
+    <item>20</item> 
+   
+    </string-array>
+</resources>
